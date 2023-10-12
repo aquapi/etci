@@ -7,7 +7,7 @@ Entrance Test to CI
 # Requirement
 [Bun](https://bun.sh) is required to run the [build script](./1/build.ts) and the [dev server](./2/server.js).
 For Windows users, use WSL2 to install Bun.
-```typescript
+```bash
 # Linux, MacOS, WSL2
 curl -fsSL https://bun.sh/install | bash
 ```
