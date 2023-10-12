@@ -1,0 +1,35 @@
+* {
+    font-family: monospace;    
+}
+
+body, main { 
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+main {
+    padding: 50px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 24px;
+}
+
+input {
+    font-size: 13px;
+}
+
+code {
+    background: lightgray;
+    color: white;
+    padding: 5px;
+
+    border-radius: 6px;
+}
